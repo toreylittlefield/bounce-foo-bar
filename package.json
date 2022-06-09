@@ -1,0 +1,8 @@
+{
+  "name": "bounce-foo-bar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/toreylittlefield/bounce-foo-bar.git",
+  "author": "Torey Littlefield <52614742+toreylittlefield@users.noreply.github.com>",
+  "license": "MIT"
+}
